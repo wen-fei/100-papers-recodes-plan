@@ -1,7 +1,9 @@
 
-# 使用Pytorch复现[论文](https://arxiv.org/abs/1606.02858)《A Thorough Examination of the CNN/Daily Mail Reading Comprehension Task》
+# 使用Pytorch复现[论文](https://arxiv.org/abs/1606.02858)
+《A Thorough Examination of the CNN/Daily Mail Reading Comprehension Task》
 
-# An implementation of [paper](https://arxiv.org/abs/1606.02858)《A Thorough Examination of the CNN/Daily Mail Reading Comprehension Task》 using Pytorch
+# An implementation of [paper](https://arxiv.org/abs/1606.02858)
+《A Thorough Examination of the CNN/Daily Mail Reading Comprehension Task》 using Pytorch
 
 参考了这个keras[代码](https://github.com/jojonki/CNN-Daily-Mail-Reading-Comprehension-Task)
 reference this keras [code](https://github.com/jojonki/CNN-Daily-Mail-Reading-Comprehension-Task)
