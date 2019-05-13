@@ -1,0 +1,1000 @@
+Go.	Go.
+Run!	Run!
+Run!	Run!
+Fire!	Fire!
+Help!	Help!
+Jump.	Jump.
+Stop!	Stop!
+Stop!	Stop!
+Stop!	Stop!
+Wait!	Wait!
+Wait!	Wait!
+Go on.	Go on.
+Go on.	Go on.
+Go on.	Go on.
+I see.	I see.
+I try.	I try.
+I won!	I won!
+I won!	I won!
+Oh no!	Oh no!
+Attack!	Attack!
+Attack!	Attack!
+Cheers!	Cheers!
+Cheers!	Cheers!
+Cheers!	Cheers!
+Cheers!	Cheers!
+Get up.	Get up.
+Go now.	Go now.
+Go now.	Go now.
+Go now.	Go now.
+Got it!	Got it!
+Got it!	Got it!
+Got it?	Got it?
+Got it?	Got it?
+Got it?	Got it?
+Hop in.	Hop in.
+Hop in.	Hop in.
+Hug me.	Hug me.
+Hug me.	Hug me.
+I fell.	I fell.
+I fell.	I fell.
+I know.	I know.
+I left.	I left.
+I left.	I left.
+I lost.	I lost.
+I'm 19.	I'm 19.
+I'm OK.	I'm OK.
+I'm OK.	I'm OK.
+Listen.	Listen.
+No way!	No way!
+No way!	No way!
+No way!	No way!
+No way!	No way!
+No way!	No way!
+No way!	No way!
+No way!	No way!
+No way!	No way!
+No way!	No way!
+Really?	Really?
+Really?	Really?
+Really?	Really?
+Thanks.	Thanks.
+We try.	We try.
+We won.	We won.
+We won.	We won.
+We won.	We won.
+We won.	We won.
+Ask Tom.	Ask Tom.
+Awesome!	Awesome!
+Be calm.	Be calm.
+Be calm.	Be calm.
+Be calm.	Be calm.
+Be cool.	Be cool.
+Be fair.	Be fair.
+Be fair.	Be fair.
+Be fair.	Be fair.
+Be fair.	Be fair.
+Be fair.	Be fair.
+Be fair.	Be fair.
+Be kind.	Be kind.
+Be nice.	Be nice.
+Be nice.	Be nice.
+Be nice.	Be nice.
+Be nice.	Be nice.
+Be nice.	Be nice.
+Be nice.	Be nice.
+Beat it.	Beat it.
+Call me.	Call me.
+Call me.	Call me.
+Call us.	Call us.
+Call us.	Call us.
+Come in.	Come in.
+Come in.	Come in.
+Come in.	Come in.
+Come in.	Come in.
+Come on!	Come on!
+Come on.	Come on.
+Come on.	Come on.
+Come on.	Come on.
+Drop it!	Drop it!
+Drop it!	Drop it!
+Drop it!	Drop it!
+Drop it!	Drop it!
+Get out!	Get out!
+Get out!	Get out!
+Get out!	Get out!
+Get out.	Get out.
+Get out.	Get out.
+Go away!	Go away!
+Go away!	Go away!
+Go away.	Go away.
+Go away.	Go away.
+Go away.	Go away.
+Go away.	Go away.
+Go away.	Go away.
+Go away.	Go away.
+Go away.	Go away.
+Go away.	Go away.
+Go slow.	Go slow.
+Go slow.	Go slow.
+Goodbye!	Goodbye!
+Hang on!	Hang on!
+Hang on!	Hang on!
+Hang on.	Hang on.
+Hang on.	Hang on.
+He quit.	He quit.
+He quit.	He quit.
+He runs.	He runs.
+Help me!	Help me!
+Help me.	Help me.
+Help me.	Help me.
+Help us.	Help us.
+Help us.	Help us.
+Hold it!	Hold it!
+Hold on.	Hold on.
+Hug Tom.	Hug Tom.
+I agree.	I agree.
+I drive.	I drive.
+I tried.	I tried.
+I tried.	I tried.
+I tried.	I tried.
+I'll go.	I'll go.
+I'm fat.	I'm fat.
+I'm fat.	I'm fat.
+I'm fit.	I'm fit.
+I'm hit!	I'm hit!
+I'm hit!	I'm hit!
+I'm ill.	I'm ill.
+I'm sad.	I'm sad.
+I'm shy.	I'm shy.
+I'm wet.	I'm wet.
+I'm wet.	I'm wet.
+It's me!	It's me!
+Join us.	Join us.
+Join us.	Join us.
+Keep it.	Keep it.
+Keep it.	Keep it.
+Kiss me.	Kiss me.
+Kiss me.	Kiss me.
+Me, too.	Me, too.
+Open up.	Open up.
+Open up.	Open up.
+Perfect!	Perfect!
+See you.	See you.
+Show me.	Show me.
+Show me.	Show me.
+Shut up!	Shut up!
+Shut up!	Shut up!
+Shut up!	Shut up!
+Shut up!	Shut up!
+Shut up!	Shut up!
+So long.	So long.
+Take it.	Take it.
+Take it.	Take it.
+Tell me.	Tell me.
+Tell me.	Tell me.
+Tom won.	Tom won.
+Wake up!	Wake up!
+Wake up!	Wake up!
+Wake up!	Wake up!
+Wake up.	Wake up.
+Wake up.	Wake up.
+Wash up.	Wash up.
+Wash up.	Wash up.
+We know.	We know.
+We lost.	We lost.
+We lost.	We lost.
+We lost.	We lost.
+We lost.	We lost.
+We lost.	We lost.
+We lost.	We lost.
+We lost.	We lost.
+We lost.	We lost.
+We lost.	We lost.
+We lost.	We lost.
+Who won?	Who won?
+Who won?	Who won?
+You run.	You run.
+Am I fat?	Am I fat?
+Am I fat?	Am I fat?
+Ask them.	Ask them.
+Ask them.	Ask them.
+Back off!	Back off!
+Back off!	Back off!
+Back off.	Back off.
+Back off.	Back off.
+Back off.	Back off.
+Back off.	Back off.
+Be a man.	Be a man.
+Be a man.	Be a man.
+Be still.	Be still.
+Be still.	Be still.
+Be still.	Be still.
+Beats me.	Beats me.
+Beats me.	Beats me.
+Call Tom.	Call Tom.
+Call Tom.	Call Tom.
+Cheer up!	Cheer up!
+Cool off!	Cool off!
+Cuff him.	Cuff him.
+Drive on.	Drive on.
+Drive on.	Drive on.
+Drive on.	Drive on.
+Drive on.	Drive on.
+Find Tom.	Find Tom.
+Find Tom.	Find Tom.
+Get down!	Get down!
+Get down.	Get down.
+Get down.	Get down.
+Get down.	Get down.
+Get down.	Get down.
+Get lost!	Get lost!
+Get lost!	Get lost!
+Get lost!	Get lost!
+Get real!	Get real!
+Go ahead.	Go ahead.
+Go ahead.	Go ahead.
+Go ahead.	Go ahead.
+Go ahead.	Go ahead.
+Good job!	Good job!
+Good job!	Good job!
+Good job!	Good job!
+Grab him.	Grab him.
+Grab him.	Grab him.
+Have fun.	Have fun.
+Have fun.	Have fun.
+He tries.	He tries.
+He's wet.	He's wet.
+Help Tom.	Help Tom.
+Help Tom.	Help Tom.
+Hi, guys.	Hi, guys.
+How cute!	How cute!
+How deep?	How deep?
+How nice!	How nice!
+How nice!	How nice!
+How nice!	How nice!
+How nice!	How nice!
+Humor me.	Humor me.
+Hurry up.	Hurry up.
+Hurry up.	Hurry up.
+Hurry up.	Hurry up.
+Hurry up.	Hurry up.
+I am fat.	I am fat.
+I did OK.	I did OK.
+I did OK.	I did OK.
+I did it.	I did it.
+I did it.	I did it.
+I failed.	I failed.
+I forgot.	I forgot.
+I get it.	I get it.
+I got it.	I got it.
+I got it.	I got it.
+I phoned.	I phoned.
+I phoned.	I phoned.
+I refuse.	I refuse.
+I refuse.	I refuse.
+I saw it.	I saw it.
+I saw it.	I saw it.
+I stayed.	I stayed.
+I stayed.	I stayed.
+I use it.	I use it.
+I use it.	I use it.
+I use it.	I use it.
+I'll pay.	I'll pay.
+I'll try.	I'll try.
+I'll try.	I'll try.
+I'm back.	I'm back.
+I'm back.	I'm back.
+I'm bald.	I'm bald.
+I'm busy.	I'm busy.
+I'm busy.	I'm busy.
+I'm calm.	I'm calm.
+I'm cold.	I'm cold.
+I'm deaf.	I'm deaf.
+I'm deaf.	I'm deaf.
+I'm done.	I'm done.
+I'm fast.	I'm fast.
+I'm fine.	I'm fine.
+I'm fine.	I'm fine.
+I'm fine.	I'm fine.
+I'm free!	I'm free!
+I'm free.	I'm free.
+I'm free.	I'm free.
+I'm full.	I'm full.
+I'm full.	I'm full.
+I'm glad.	I'm glad.
+I'm home.	I'm home.
+I'm late.	I'm late.
+I'm lazy.	I'm lazy.
+I'm lazy.	I'm lazy.
+I'm lazy.	I'm lazy.
+I'm lazy.	I'm lazy.
+I'm okay.	I'm okay.
+I'm okay.	I'm okay.
+I'm safe.	I'm safe.
+I'm sick.	I'm sick.
+I'm sure.	I'm sure.
+I'm sure.	I'm sure.
+I'm sure.	I'm sure.
+I'm sure.	I'm sure.
+I'm tall.	I'm tall.
+I'm thin.	I'm thin.
+I'm tidy.	I'm tidy.
+I'm tidy.	I'm tidy.
+I'm ugly.	I'm ugly.
+I'm ugly.	I'm ugly.
+I'm weak.	I'm weak.
+I'm well.	I'm well.
+I'm well.	I'm well.
+I've won.	I've won.
+I've won.	I've won.
+It helps.	It helps.
+It hurts.	It hurts.
+It works.	It works.
+It works.	It works.
+It's Tom.	It's Tom.
+It's fun.	It's fun.
+It's fun.	It's fun.
+It's his.	It's his.
+It's his.	It's his.
+It's new.	It's new.
+It's new.	It's new.
+It's odd.	It's odd.
+It's sad.	It's sad.
+Keep out!	Keep out!
+Keep out.	Keep out.
+Kiss Tom.	Kiss Tom.
+Leave it.	Leave it.
+Leave it.	Leave it.
+Leave me.	Leave me.
+Leave us.	Leave us.
+Leave us.	Leave us.
+Let's go!	Let's go!
+Let's go!	Let's go!
+Look out!	Look out!
+Look out!	Look out!
+Marry me.	Marry me.
+Marry me.	Marry me.
+May I go?	May I go?
+May I go?	May I go?
+May I go?	May I go?
+Save Tom.	Save Tom.
+Save Tom.	Save Tom.
+She came.	She came.
+She died.	She died.
+She runs.	She runs.
+Sit down!	Sit down!
+Sit down!	Sit down!
+Sit here.	Sit here.
+Sit here.	Sit here.
+Speak up!	Speak up!
+Speak up!	Speak up!
+Stop Tom.	Stop Tom.
+Stop Tom.	Stop Tom.
+Tell Tom.	Tell Tom.
+Tell Tom.	Tell Tom.
+Terrific!	Terrific!
+Terrific!	Terrific!
+Terrific!	Terrific!
+They won.	They won.
+They won.	They won.
+They won.	They won.
+They won.	They won.
+Tom came.	Tom came.
+Tom died.	Tom died.
+Tom died.	Tom died.
+Tom knew.	Tom knew.
+Tom left.	Tom left.
+Tom left.	Tom left.
+Tom lied.	Tom lied.
+Tom lies.	Tom lies.
+Tom lost.	Tom lost.
+Tom paid.	Tom paid.
+Too late.	Too late.
+Trust me.	Trust me.
+Trust me.	Trust me.
+Try hard.	Try hard.
+Try some.	Try some.
+Try some.	Try some.
+Try this.	Try this.
+Try this.	Try this.
+Use this.	Use this.
+Use this.	Use this.
+Use this.	Use this.
+Use this.	Use this.
+Warn Tom.	Warn Tom.
+Warn Tom.	Warn Tom.
+Watch me.	Watch me.
+Watch me.	Watch me.
+Watch us.	Watch us.
+Watch us.	Watch us.
+We agree.	We agree.
+We'll go.	We'll go.
+What for?	What for?
+What for?	What for?
+What fun!	What fun!
+What fun!	What fun!
+Who came?	Who came?
+Who died?	Who died?
+Who fell?	Who fell?
+Who's he?	Who's he?
+Write me.	Write me.
+Write me.	Write me.
+You lost.	You lost.
+You lost.	You lost.
+After you.	After you.
+Aim. Fire!	Aim. Fire!
+Am I late?	Am I late?
+Answer me.	Answer me.
+Be seated.	Be seated.
+Be seated.	Be seated.
+Birds fly.	Birds fly.
+Bless you.	Bless you.
+Call home!	Call home!
+Calm down!	Calm down!
+Calm down.	Calm down.
+Can we go?	Can we go?
+Can we go?	Can we go?
+Can we go?	Can we go?
+Catch Tom.	Catch Tom.
+Catch Tom.	Catch Tom.
+Catch him.	Catch him.
+Come back.	Come back.
+Come back.	Come back.
+Come here.	Come here.
+Come here.	Come here.
+Come over!	Come over!
+Come over!	Come over!
+Come over.	Come over.
+Come over.	Come over.
+Come over.	Come over.
+Come over.	Come over.
+Come over.	Come over.
+Come soon.	Come soon.
+Come soon.	Come soon.
+Cool down.	Cool down.
+Did I win?	Did I win?
+Did I win?	Did I win?
+Did I win?	Did I win?
+Do it now.	Do it now.
+Dogs bark.	Dogs bark.
+Dogs bark.	Dogs bark.
+Don't ask.	Don't ask.
+Don't cry.	Don't cry.
+Don't die.	Don't die.
+Don't die.	Don't die.
+Don't lie.	Don't lie.
+Don't run.	Don't run.
+Don't run.	Don't run.
+Excuse me.	Excuse me.
+Fantastic!	Fantastic!
+Feel this.	Feel this.
+Feel this.	Feel this.
+Feel this.	Feel this.
+Feel this.	Feel this.
+Follow me.	Follow me.
+Follow us.	Follow us.
+Follow us.	Follow us.
+Forget it!	Forget it!
+Forget it!	Forget it!
+Forget it!	Forget it!
+Forget it!	Forget it!
+Forget it.	Forget it.
+Forget it.	Forget it.
+Get a job.	Get a job.
+Get a job.	Get a job.
+Get a job.	Get a job.
+Get a job.	Get a job.
+Get ready.	Get ready.
+Get ready.	Get ready.
+Go get it.	Go get it.
+Go get it.	Go get it.
+Go inside.	Go inside.
+Go to bed.	Go to bed.
+Go to bed.	Go to bed.
+Good luck.	Good luck.
+Good luck.	Good luck.
+Grab that.	Grab that.
+Grab that.	Grab that.
+Grab that.	Grab that.
+Grab that.	Grab that.
+Grab this.	Grab this.
+Grab this.	Grab this.
+Hands off.	Hands off.
+He is ill.	He is ill.
+He is old.	He is old.
+He's good.	He's good.
+He's lazy.	He's lazy.
+He's rich.	He's rich.
+Here I am.	Here I am.
+Here's $5.	Here's $5.
+Hold fire.	Hold fire.
+Hold fire.	Hold fire.
+Hold this.	Hold this.
+Hold this.	Hold this.
+Hold this.	Hold this.
+Hold this.	Hold this.
+How awful!	How awful!
+How's Tom?	How's Tom?
+How's Tom?	How's Tom?
+I am busy.	I am busy.
+I am calm.	I am calm.
+I am cold.	I am cold.
+I am fine.	I am fine.
+I am good.	I am good.
+I am here.	I am here.
+I am lazy.	I am lazy.
+I am lazy.	I am lazy.
+I am lazy.	I am lazy.
+I am lazy.	I am lazy.
+I am okay.	I am okay.
+I am sick.	I am sick.
+I am sure.	I am sure.
+I am sure.	I am sure.
+I am weak.	I am weak.
+I beg you.	I beg you.
+I beg you.	I beg you.
+I beg you.	I beg you.
+I beg you.	I beg you.
+I can run.	I can run.
+I can ski.	I can ski.
+I cringed.	I cringed.
+I cringed.	I cringed.
+I cringed.	I cringed.
+I give up.	I give up.
+I got hot.	I got hot.
+I got hot.	I got hot.
+I had fun.	I had fun.
+I had fun.	I had fun.
+I had fun.	I had fun.
+I had fun.	I had fun.
+I hate it.	I hate it.
+I have it.	I have it.
+I hit Tom.	I hit Tom.
+I hope so.	I hope so.
+I knew it.	I knew it.
+I like it.	I like it.
+I lost it.	I lost it.
+I love it!	I love it!
+I love it.	I love it.
+I mean it!	I mean it!
+I mean it.	I mean it.
+I must go.	I must go.
+I must go.	I must go.
+I must go.	I must go.
+I must go.	I must go.
+I must go.	I must go.
+I must go.	I must go.
+I must go.	I must go.
+I must go.	I must go.
+I need it.	I need it.
+I need it.	I need it.
+I noticed.	I noticed.
+I promise.	I promise.
+I relaxed.	I relaxed.
+I relaxed.	I relaxed.
+I said no.	I said no.
+I said so.	I said so.
+I saw him.	I saw him.
+I saw him.	I saw him.
+I saw him.	I saw him.
+I saw one.	I saw one.
+I saw one.	I saw one.
+I saw you.	I saw you.
+I saw you.	I saw you.
+I saw you.	I saw you.
+I saw you.	I saw you.
+I saw you.	I saw you.
+I saw you.	I saw you.
+I saw you.	I saw you.
+I saw you.	I saw you.
+I see Tom.	I see Tom.
+I shouted.	I shouted.
+I tripped.	I tripped.
+I tripped.	I tripped.
+I want it.	I want it.
+I was new.	I was new.
+I was new.	I was new.
+I will go.	I will go.
+I woke up.	I woke up.
+I woke up.	I woke up.
+I'd agree.	I'd agree.
+I'd leave.	I'd leave.
+I'll call.	I'll call.
+I'll cook.	I'll cook.
+I'll help.	I'll help.
+I'll live.	I'll live.
+I'll obey.	I'll obey.
+I'll pack.	I'll pack.
+I'll pack.	I'll pack.
+I'll pack.	I'll pack.
+I'll pass.	I'll pass.
+I'll quit.	I'll quit.
+I'll sing.	I'll sing.
+I'll stop.	I'll stop.
+I'll swim.	I'll swim.
+I'll talk.	I'll talk.
+I'll talk.	I'll talk.
+I'll wait.	I'll wait.
+I'll walk.	I'll walk.
+I'll work.	I'll work.
+I'll work.	I'll work.
+I'm a cop.	I'm a cop.
+I'm a man.	I'm a man.
+I'm alive.	I'm alive.
+I'm alive.	I'm alive.
+I'm alive.	I'm alive.
+I'm alone.	I'm alone.
+I'm alone.	I'm alone.
+I'm angry.	I'm angry.
+I'm angry.	I'm angry.
+I'm armed.	I'm armed.
+I'm armed.	I'm armed.
+I'm awake.	I'm awake.
+I'm blind.	I'm blind.
+I'm broke.	I'm broke.
+I'm clean.	I'm clean.
+I'm clean.	I'm clean.
+I'm crazy.	I'm crazy.
+I'm crazy.	I'm crazy.
+I'm cured.	I'm cured.
+I'm cured.	I'm cured.
+I'm drunk.	I'm drunk.
+I'm drunk.	I'm drunk.
+I'm drunk.	I'm drunk.
+I'm dying.	I'm dying.
+I'm early.	I'm early.
+I'm first.	I'm first.
+I'm fussy.	I'm fussy.
+I'm fussy.	I'm fussy.
+I'm fussy.	I'm fussy.
+I'm going.	I'm going.
+I'm going.	I'm going.
+I'm going.	I'm going.
+I'm going.	I'm going.
+I'm loyal.	I'm loyal.
+I'm loyal.	I'm loyal.
+I'm lucky.	I'm lucky.
+I'm lucky.	I'm lucky.
+I'm lucky.	I'm lucky.
+I'm lucky.	I'm lucky.
+I'm lucky.	I'm lucky.
+I'm lying.	I'm lying.
+I'm quiet.	I'm quiet.
+I'm ready!	I'm ready!
+I'm ready!	I'm ready!
+I'm ready.	I'm ready.
+I'm right.	I'm right.
+I'm sober.	I'm sober.
+I'm sorry.	I'm sorry.
+I'm sorry.	I'm sorry.
+I'm sorry.	I'm sorry.
+I'm sorry.	I'm sorry.
+I'm sorry.	I'm sorry.
+I'm stuck.	I'm stuck.
+I'm timid.	I'm timid.
+I'm tired.	I'm tired.
+I'm tough.	I'm tough.
+I'm tough.	I'm tough.
+I'm tough.	I'm tough.
+I'm tough.	I'm tough.
+I'm yours.	I'm yours.
+I'm yours.	I'm yours.
+I've lost.	I've lost.
+Is Tom OK?	Is Tom OK?
+Is Tom OK?	Is Tom OK?
+Is it bad?	Is it bad?
+Is it far?	Is it far?
+Is it far?	Is it far?
+Is it hot?	Is it hot?
+Is it you?	Is it you?
+Is it you?	Is it you?
+Is it you?	Is it you?
+It failed.	It failed.
+It is new.	It is new.
+It is new.	It is new.
+It snowed.	It snowed.
+It stinks.	It stinks.
+It stinks.	It stinks.
+It worked.	It worked.
+It worked.	It worked.
+It's 3:30.	It's 3:30.
+It's 8:30.	It's 8:30.
+It's 8:30.	It's 8:30.
+It's cold.	It's cold.
+It's cold.	It's cold.
+It's dark.	It's dark.
+It's dead.	It's dead.
+It's dead.	It's dead.
+It's dead.	It's dead.
+It's done.	It's done.
+It's food.	It's food.
+It's free.	It's free.
+It's here.	It's here.
+It's here.	It's here.
+It's hers.	It's hers.
+It's hers.	It's hers.
+It's late.	It's late.
+It's lost.	It's lost.
+It's open.	It's open.
+It's ours.	It's ours.
+It's ours.	It's ours.
+It's ours.	It's ours.
+It's sand.	It's sand.
+It's time.	It's time.
+It's time.	It's time.
+It's true!	It's true!
+It's work.	It's work.
+Keep this.	Keep this.
+Keep this.	Keep this.
+Let it be.	Let it be.
+Let it be.	Let it be.
+Let me go!	Let me go!
+Let me go!	Let me go!
+Let me go!	Let me go!
+Let me go!	Let me go!
+Let me go!	Let me go!
+Let me go!	Let me go!
+Let me go!	Let me go!
+Let me go!	Let me go!
+Let me go.	Let me go.
+Let me go.	Let me go.
+Let me go.	Let me go.
+Let me go.	Let me go.
+Let me in.	Let me in.
+Let me in.	Let me in.
+Let's ask.	Let's ask.
+Let's see.	Let's see.
+Lie still.	Lie still.
+Lie still.	Lie still.
+Lie still.	Lie still.
+Lie still.	Lie still.
+Lie still.	Lie still.
+Lie still.	Lie still.
+Look back!	Look back!
+Look back!	Look back!
+Look here.	Look here.
+Look here.	Look here.
+Loosen up.	Loosen up.
+Loosen up.	Loosen up.
+Loosen up.	Loosen up.
+Loosen up.	Loosen up.
+Loosen up.	Loosen up.
+Move over.	Move over.
+Move over.	Move over.
+Move over.	Move over.
+Nice shot!	Nice shot!
+Of course!	Of course!
+Of course!	Of course!
+Of course!	Of course!
+Of course.	Of course.
+Of course.	Of course.
+Oh please!	Oh please!
+Oh please!	Oh please!
+Pardon me?	Pardon me?
+Pardon me?	Pardon me?
+Pardon me?	Pardon me?
+Read this.	Read this.
+Say hello.	Say hello.
+See above.	See above.
+See below.	See below.
+See below.	See below.
+Seriously?	Seriously?
+Seriously?	Seriously?
+Seriously?	Seriously?
+She cried.	She cried.
+She cried.	She cried.
+She cried.	She cried.
+She tried.	She tried.
+She walks.	She walks.
+She's hot.	She's hot.
+She's hot.	She's hot.
+Sign here.	Sign here.
+Sign here.	Sign here.
+Sign this.	Sign this.
+Sign this.	Sign this.
+Slow down.	Slow down.
+Slow down.	Slow down.
+Stay back.	Stay back.
+Stay back.	Stay back.
+Stay calm.	Stay calm.
+Stay calm.	Stay calm.
+Stay calm.	Stay calm.
+Stay calm.	Stay calm.
+Stay calm.	Stay calm.
+Stay down!	Stay down!
+Stay down!	Stay down!
+Stay down.	Stay down.
+Stay down.	Stay down.
+Stay here.	Stay here.
+Stay here.	Stay here.
+Stay here.	Stay here.
+Stay thin.	Stay thin.
+Step back.	Step back.
+Step back.	Step back.
+Stop that!	Stop that!
+Stop that.	Stop that.
+Stop that.	Stop that.
+Stop them.	Stop them.
+Take care!	Take care!
+Take care!	Take care!
+Take care.	Take care.
+Take care.	Take care.
+Take mine.	Take mine.
+Take mine.	Take mine.
+Take mine.	Take mine.
+Take mine.	Take mine.
+Take mine.	Take mine.
+Take mine.	Take mine.
+Take mine.	Take mine.
+Take mine.	Take mine.
+Take this.	Take this.
+Take this.	Take this.
+Thank you.	Thank you.
+That's it.	That's it.
+They fell.	They fell.
+They fell.	They fell.
+They left.	They left.
+They left.	They left.
+They lied.	They lied.
+They lied.	They lied.
+They lost.	They lost.
+They lost.	They lost.
+They swam.	They swam.
+They swam.	They swam.
+They swam.	They swam.
+They swam.	They swam.
+Time's up.	Time's up.
+Tom cried.	Tom cried.
+Tom knits.	Tom knits.
+Tom knows.	Tom knows.
+Tom spoke.	Tom spoke.
+Tom walks.	Tom walks.
+Tom works.	Tom works.
+Tom's fat.	Tom's fat.
+Tom's mad.	Tom's mad.
+Tom's mad.	Tom's mad.
+Tom's sad.	Tom's sad.
+Trust Tom.	Trust Tom.
+Trust Tom.	Trust Tom.
+Try again.	Try again.
+Try again.	Try again.
+Try again.	Try again.
+Try it on.	Try it on.
+Turn left.	Turn left.
+Wait here.	Wait here.
+Wait here.	Wait here.
+Wait here.	Wait here.
+Wait here.	Wait here.
+Watch out!	Watch out!
+Watch out!	Watch out!
+Watch out!	Watch out!
+We agreed.	We agreed.
+We did it!	We did it!
+We did it.	We did it.
+We did it.	We did it.
+We forgot.	We forgot.
+We saw it.	We saw it.
+We saw it.	We saw it.
+We talked.	We talked.
+We talked.	We talked.
+We talked.	We talked.
+We talked.	We talked.
+We talked.	We talked.
+We waited.	We waited.
+We waited.	We waited.
+We'll try.	We'll try.
+We'll try.	We'll try.
+We'll win.	We'll win.
+We'll win.	We'll win.
+We're hot.	We're hot.
+We're sad.	We're sad.
+We're shy.	We're shy.
+Well done!	Well done!
+Well done!	Well done!
+Well done!	Well done!
+Well done!	Well done!
+Well done!	Well done!
+What else?	What else?
+What else?	What else?
+What's up?	What's up?
+What's up?	What's up?
+Who cares?	Who cares?
+Who cares?	Who cares?
+Who cares?	Who cares?
+Who is he?	Who is he?
+Who is he?	Who is he?
+Who is it?	Who is it?
+Who is it?	Who is it?
+Who knows?	Who knows?
+Who spoke?	Who spoke?
+Who'll go?	Who'll go?
+Who's Tom?	Who's Tom?
+Who's ill?	Who's ill?
+Wonderful!	Wonderful!
+Wonderful!	Wonderful!
+Write Tom.	Write Tom.
+You drive.	You drive.
+You drive.	You drive.
+You drive.	You drive.
+You start.	You start.
+You start.	You start.
+You tried.	You tried.
+You tried.	You tried.
+All aboard!	All aboard!
+Am I clear?	Am I clear?
+Am I clear?	Am I clear?
+Am I dying?	Am I dying?
+Am I dying?	Am I dying?
+Am I early?	Am I early?
+Am I fired?	Am I fired?
+Am I first?	Am I first?
+Am I first?	Am I first?
+Am I hired?	Am I hired?
+Am I hired?	Am I hired?
+Am I right?	Am I right?
+Am I right?	Am I right?
+Am I wrong?	Am I wrong?
+Am I wrong?	Am I wrong?
+Am I wrong?	Am I wrong?
+Answer Tom.	Answer Tom.
+Answer Tom.	Answer Tom.
+Are you OK?	Are you OK?
+Are you up?	Are you up?
+Are you up?	Are you up?
+Are you up?	Are you up?
+Are you up?	Are you up?
+Are you up?	Are you up?
+Are you up?	Are you up?
+Are you up?	Are you up?
+Are you up?	Are you up?
+Ask anyone.	Ask anyone.
+Ask anyone.	Ask anyone.
+Ask anyone.	Ask anyone.
+Ask around.	Ask around.
+Ask around.	Ask around.
+Be careful!	Be careful!
+Be careful!	Be careful!
+Be careful!	Be careful!
+Be careful!	Be careful!
+Be careful!	Be careful!
+Be careful!	Be careful!
+Be careful!	Be careful!
+Be careful!	Be careful!
+Be careful!	Be careful!
+Be careful.	Be careful.
+Be careful.	Be careful.
+Be careful.	Be careful.
+Be careful.	Be careful.
+Be careful.	Be careful.
+Be careful.	Be careful.
+Be content.	Be content.
+Be content.	Be content.
+Be content.	Be content.
+Be content.	Be content.
+Be content.	Be content.
+Be content.	Be content.
+Be on time.	Be on time.
+Be on time.	Be on time.
+Be serious.	Be serious.
+Be serious.	Be serious.
+Be serious.	Be serious.
+Be serious.	Be serious.
+Be serious.	Be serious.
+Birds sing.	Birds sing.
+Bottoms up!	Bottoms up!
+Bring food.	Bring food.
+Bring food.	Bring food.
+Bring wine.	Bring wine.
+Bring wine.	Bring wine.
+Can I come?	Can I come?
+Can I help?	Can I help?
+Can I stay?	Can I stay?
+Carry this.	Carry this.
+Check that.	Check that.
+Check that.	Check that.
+Check that.	Check that.
+Check this.	Check this.
+Check this.	Check this.
+Choose one.	Choose one.
+Choose one.	Choose one.
